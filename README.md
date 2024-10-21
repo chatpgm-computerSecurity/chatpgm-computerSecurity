@@ -65,6 +65,19 @@ User1
 User1 : Hello
 User2 : Hi!
 ```
+### Outputs screenshots
+
+### 1. Server starting and connecting to the client
+![Server starting and connecting to the client](outputs/image1.png)
+
+### 2. Client successfully connecting to server
+![Client successfully connecting to server](outputs/image2.png)
+
+### 3. Client messages
+![Client messages](outputs/image3.png)
+
+### 4. Client disconnecting from from server
+![Client disconnecting from from server](outputs/image4.png)
 
 ## Known Issues
 
