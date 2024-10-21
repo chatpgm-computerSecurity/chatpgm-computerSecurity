@@ -2,6 +2,10 @@
 # Chat Application
 
 This project is a simple client-server chat application that allows multiple clients to communicate with each other. The server listens for client connections and relays messages to all connected clients except the sender.
+## Group Members - 
+1) DEVIKA SALIMKUMAR
+2) KRISHNA REVANTH KURUMETI
+3) AASISH SAJJA
 
 ## Features
 - Server handles multiple clients simultaneously using threads.
@@ -83,4 +87,6 @@ User2 : Hi!
 
 - If a client disconnects abruptly, the server may take time to detect the disconnection.
 - Only basic text-based chat is supported. No file transfers or media sharing.
+
+  
 
