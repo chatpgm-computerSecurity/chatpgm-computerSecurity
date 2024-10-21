@@ -35,11 +35,13 @@ cd chat-application
 ### 2. Open the Project in Visual Studio
 - Launch **Visual Studio**.
 - Select **File > Open > Project/Solution**.
-- Navigate to the folder where you cloned the repository and open the `.sln` solution file (if available) or add the `.cpp` files manually to your project.
+- Navigate to the folder where you cloned the repository
+- Open the `.sln` solution file (if available) or add the `.cpp` files manually for server, client, and client2 folders seperately in each windows of Visual Studio.
+
 
 ### 3. Build the Project
-- Once the project is open, select **Build > Build Solution** (or press `Ctrl+Shift+B`).
-- Ensure that the build is successful. Any errors will be displayed in the output window.
+- Once the projects server, client, and client2 windows seperately.For is open, select **Build > Build Solution** (or press `Ctrl+Shift+B`).
+- Ensure that the build is successful for all the three windows(server, client and client2). Any errors will be displayed in the output window.
 
 ### 4. Run the Server and Clients
 - After the build is successful, press the **Run** button (`F5` or the green play button) for each component (server, client, and client 2). 
